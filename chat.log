@@ -1,0 +1,38 @@
+I reset the chat log so you can only see the last cupple of chats because I dont want to cluter stuff up;
+
+12:07 AM EST:
+This is a bug I found when you try to log in;
+ReferenceError: Cannot access 'username' before initialization
+    at joemama (/:156:7)
+    at HTMLButtonElement.onclick (/:23:53)
+    Also this
+TypeError: document.getElementbyID is not a function
+    at /:149:31
+
+    yes i will try something rn
+
+ok
+
+ok login stuff is fixed
+username: agames
+password: jango123
+ok let me try
+nothing
+ok
+
+did it work lol?
+no the button does nothing
+it works for me tho
+
+you need to type in the username and password and then click the button
+ill brb
+can you add a user name or password not correct if you get it wrong ok ill be back soon
+
+
+that what i did lol
+if you enter the wrong username or pass you get an alert saying it's wrong
+
+ok
+i have to go too for lunch
+
+ok
